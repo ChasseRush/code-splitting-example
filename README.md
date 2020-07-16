@@ -1,4 +1,4 @@
-# Hey there, welcome to my code splitting example
+# Hey There, Welcome to my Code Splitting Example
 
 This repo goes along with a post I made on dev.to about code splitting. It demonstrates how you can code split with both `React.lazy()` and webpack magic comments (including `react-loadable`). Feel free to read it and follow along in the repo.
 
